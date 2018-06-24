@@ -1,2 +1,2 @@
-# http://khsassis.github.io
+# http://khsassis.github.io/index
 Introdução a programação para internet
