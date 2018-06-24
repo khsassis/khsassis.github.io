@@ -1,2 +1,2 @@
-# http://khsassis.github.io/css/estilo.css
+# http://khsassis.github.io
 Introdução a programação para internet
